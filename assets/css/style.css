@@ -8,3 +8,6 @@ img.profile-picture {
     display: block !important;
     margin: 20px auto !important;
 }
+body {
+    text-align: center;
+}
