@@ -1,5 +1,7 @@
 # Hi, I'm Shir! 🩵
 
+![Shir Zivav](images/studant%20card%20-%20Shir%20Zivav.jpg)
+
 ### Welcome to my personal website!
 
 I'm Shir Zivav, an MSc student in Molecular Neuroscience at the Weizmann Institute of Science.
