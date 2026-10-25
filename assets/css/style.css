@@ -1,17 +1,17 @@
 /* General website design */
 body {
     background-color: #EAF7FF;
-    text-align: center;
-    font-family: Arial, sans-serif;
     color: #374151;
-}
-
-/* Center website content */
-.main-content {
+    font-family: Arial, sans-serif;
     text-align: center;
+    margin: 0;
 }
 
-.main-content p {
+/* Main content */
+.main-content {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 40px 25px;
     text-align: center;
 }
 
@@ -22,12 +22,32 @@ h1, h2, h3 {
     text-align: center;
 }
 
+/* Main title */
+h1 {
+    font-size: 42px;
+}
+
+/* Section headings */
+h2 {
+    font-size: 30px;
+}
+
+/* Paragraphs */
+p {
+    font-size: 18px;
+    line-height: 1.8;
+    text-align: center;
+}
+
 /* Profile picture */
-.profile-picture {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    object-fit: cover;
-    display: block;
-    margin: 20px auto;
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Dividers */
+hr {
+    border: none;
+    border-top: 1px solid #C5E3F6;
+    margin: 35px 0;
 }
