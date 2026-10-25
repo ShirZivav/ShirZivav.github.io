@@ -11,3 +11,22 @@ img.profile-picture {
 body {
     text-align: center;
 }
+/* Center all website text */
+body,
+main,
+section,
+article,
+.markdown-body,
+.main-content,
+.main-content p,
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+    text-align: center !important;
+}
+
+/* Elegant headings */
+h1, h2, h3 {
+    font-family: Georgia, serif;
+    color: #7BAFD4;
+}
