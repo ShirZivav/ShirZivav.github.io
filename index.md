@@ -1,6 +1,6 @@
 # Hi, I'm Shir! 🩵
 
-![Shir Zivav](images/studant%20card%20-%20Shir%20Zivav.jpg)
+![Shir Zivav](images/studant%20card%20-%20Shir%20Zivav.jpeg)
 
 ### Welcome to my personal website!
 
