@@ -41,8 +41,12 @@ p {
 
 /* Profile picture */
 img {
-    max-width: 100%;
-    height: auto;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 20px auto;
 }
 
 /* Dividers */
