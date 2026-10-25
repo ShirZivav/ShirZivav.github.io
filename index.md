@@ -1,6 +1,10 @@
 # Hi, I'm Shir! 🩵
 
-![Shir Zivav](images/studant%20card%20-%20Shir%20Zivav.jpeg)
+<div style="text-align: center;">
+  <img src="/images/studant%20card%20-%20Shir%20Zivav.jpeg"
+       alt="Shir Zivav"
+       style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
+</div>
 
 ### Welcome to my personal website!
 
