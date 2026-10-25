@@ -1,9 +1,10 @@
-.profile-picture {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    object-fit: cover;
-    object-position: center;
-    display: block;
-    margin: 20px auto;
+img.profile-picture {
+    width: 200px !important;
+    height: 200px !important;
+    max-width: none !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+    object-position: center !important;
+    display: block !important;
+    margin: 20px auto !important;
 }
