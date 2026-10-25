@@ -1,32 +1,33 @@
-img.profile-picture {
-    width: 200px !important;
-    height: 200px !important;
-    max-width: none !important;
-    border-radius: 50% !important;
-    object-fit: cover !important;
-    object-position: center !important;
-    display: block !important;
-    margin: 20px auto !important;
-}
+/* General website design */
 body {
+    background-color: #EAF7FF;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #374151;
+}
+
+/* Center website content */
+.main-content {
     text-align: center;
 }
-/* Center all website text */
-body,
-main,
-section,
-article,
-.markdown-body,
-.main-content,
-.main-content p,
-.main-content h1,
-.main-content h2,
-.main-content h3 {
-    text-align: center !important;
+
+.main-content p {
+    text-align: center;
 }
 
 /* Elegant headings */
 h1, h2, h3 {
     font-family: Georgia, serif;
     color: #7BAFD4;
+    text-align: center;
+}
+
+/* Profile picture */
+.profile-picture {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 20px auto;
 }
