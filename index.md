@@ -6,9 +6,11 @@ layout: default
 
 # Hi, I'm Shir! 🩵
 
-<img src="/images/studant%20card%20-%20Shir%20Zivav.jpeg"
-     alt="Shir Zivav"
-     class="profile-picture">
+<p align="center">
+  <img src="/images/studant%20card%20-%20Shir%20Zivav.jpeg"
+       alt="Shir Zivav"
+       width="180">
+</p>
 
 ### Welcome to my personal website!
 
