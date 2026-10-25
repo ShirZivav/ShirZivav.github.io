@@ -1,11 +1,12 @@
+---
+layout: default
+---
+
 <link rel="stylesheet" href="/assets/css/style.css">
+
 # Hi, I'm Shir! 🩵
 
-<img
-  src="/images/studant%20card%20-%20Shir%20Zivav.jpeg"
-  alt="Shir Zivav"
-  class="profile-picture"
->
+<img src="/images/studant%20card%20-%20Shir%20Zivav.jpeg" alt="Shir Zivav" class="profile-picture">
 
 ### Welcome to my personal website!
 
