@@ -63,6 +63,19 @@ I look forward to combining my programming knowledge with neuroscience research 
 
 ---
 
+
+## 🛠️ Skills
+
+- Python Programming
+- Data Visualization
+- Behavioral Testing
+- Experimental Design
+- Attention to Detail
+- Problem Solving
+
+---
+
+
 ## 🩰 Beyond the Lab
 
 Outside the lab, I enjoy exploring my creative side!
@@ -80,3 +93,4 @@ These experiences have taught me the importance of creativity, patience, communi
 Here I'll share projects and exercises from my Python course as I continue developing my programming skills.
 
 Stay tuned!
+
